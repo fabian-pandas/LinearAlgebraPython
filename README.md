@@ -33,7 +33,7 @@ NumPy is the fundamental package for scientific computing with Python.
     7. Hermitian Matrix (Self-adjoint Matrix)
     8. Skew-Hermitian Matrix
     9. Identity Matrix
-    10. Triangular matrix (R and L)
+    10. Triangular Matrix (R and L)
 3. Vectors
     1. Column Vector
     2. Row Vector
